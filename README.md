@@ -4,7 +4,7 @@
 
 Building modern web applications with a focus on scalable backend systems, responsive frontends, and AI-powered solutions.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/makhdoom-hussain?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Profile%20Views-Professional-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge" />
