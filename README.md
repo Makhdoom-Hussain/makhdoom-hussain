@@ -1,8 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Makhdoom%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" />
-</p>
-
 <!-- Typing Line -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+%26+API+Integrator;Frontend+%2F+Backend+%2F+Fullstack;Building+Smart+Web+Solutions" alt="Typing SVG" />
