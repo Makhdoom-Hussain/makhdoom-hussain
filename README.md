@@ -100,12 +100,3 @@ My work focuses on building clean, efficient, and user-friendly digital experien
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=makhdoom-hussain&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makhdoom-hussain&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhdoom-hussain&layout=compact&theme=tokyonight" />
-</p>
