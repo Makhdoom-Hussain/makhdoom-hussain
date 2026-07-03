@@ -1,10 +1,20 @@
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Makhdoom%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20|%20AI%20Integration&descAlignY=58&descSize=18" />
+</p>
+
+<!-- Typing Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+Stack+Engineer;AI+%26+API+Integrator;Frontend+%2F+Backend+%2F+Fullstack;Building+Smart+Web+Solutions" alt="Typing SVG" />
+</p>
+
 # Hi there 👋
 
 ## I'm Makhdoom Hussain — Full-Stack Developer
 
 Building modern web applications with a focus on scalable backend systems, responsive frontends, and AI-powered solutions.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/github/followers/makhdoom-hussain?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Profile%20Views-Professional-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge" />
@@ -49,7 +59,7 @@ My work focuses on building clean, efficient, and user-friendly digital experien
 
 ### AI / API Integration
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman" />
+  <img src="https://skillicons.dev/icons?i=postman,git" />
 </p>
 
 #### Additional Tools & Platforms
@@ -82,3 +92,20 @@ My work focuses on building clean, efficient, and user-friendly digital experien
 - Integrating AI capabilities into web projects
 - Improving backend architecture and API design
 - Expanding knowledge in Data Science
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makhdoom-hussain&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=makhdoom-hussain&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhdoom-hussain&layout=compact&theme=tokyonight" />
+</p>
